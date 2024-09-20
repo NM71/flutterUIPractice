@@ -1,16 +1,9 @@
-# practice
+# FLutter UI
 
-A new Flutter project.
+A UI for practice
 
-## Getting Started
+# Screenshot
 
-This project is a starting point for a Flutter application.
+![image](https://github.com/user-attachments/assets/199c7bac-bd72-43bc-8efa-3d8f82562d70)
+![image](https://github.com/user-attachments/assets/3d4649c3-c856-49e5-babd-f57d48a40dd0)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
